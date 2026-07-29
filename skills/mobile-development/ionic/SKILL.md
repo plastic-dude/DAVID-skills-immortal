@@ -1,0 +1,52 @@
+# Ionic
+
+## Overview
+Skill for Ionic. Part of the mobile-development category.
+
+## Capabilities
+- Understand Ionic fundamentals
+- Apply Ionic patterns correctly
+- Debug Ionic issues
+- Optimize Ionic performance
+- Integrate Ionic with other systems
+
+## Usage Patterns
+
+### Pattern 1: Basic Ionic
+```
+# Basic Ionic example
+# TODO: Add specific example
+```
+
+### Pattern 2: Advanced Ionic
+```
+# Advanced Ionic example
+# TODO: Add specific example
+```
+
+### Pattern 3: Ionic Integration
+```
+# Ionic integration example
+# TODO: Add specific example
+```
+
+## Common Pitfalls
+- Misunderstanding Ionic scope
+- Incorrect Ionic configuration
+- Performance issues in Ionic
+
+## Related Skills
+- Related skill in mobile-development
+- See parent category for more
+- Cross-reference with agent capabilities
+
+## Verification Checklist
+- [ ] Test before declaring
+- [ ] Source every claim
+- [ ] No hallucinated capabilities
+
+---
+Category: mobile-development
+Subcategory: ionic
+Created: Thu Jul 30 07:36:04 2026
+Version: 1.0
