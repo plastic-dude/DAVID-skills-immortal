@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "timestamp": 1785367991.6082966,
+  "pod": "k2082608604658950144",
+  "total_skills": 126,
+  "target_skills": 15000,
+  "directories": {
+    "kimi-widget": 1,
+    "kimi-widget/assets": 0,
+    "kimi-widget/assets/icons": 105,
+    "kimi-widget/references": 2,
+    "kimi-widget/references/icons": 1,
+    "kimi-widget/references/icons/categories": 13,
+    "kimi-help-center": 1,
+    "kimi-help-center/references": 3
+  }
+}
