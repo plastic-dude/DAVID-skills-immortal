@@ -1,0 +1,63 @@
+# Concept Fusion — Broad
+
+## Branch
+**The Mind — Cognition & Knowledge**
+
+## Family
+Concept Fusion
+
+## Variation
+Broad
+
+## Tier
+Diamond
+
+## Purpose
+Fuse concepts to create new understanding.
+
+## When to Use
+- When concept fusion is required at broad level
+- When complexity demands broad approach to concept fusion
+- When standard methods fail and broad is needed
+
+## How to Apply
+1. **Assess**: Evaluate the situation for concept fusion requirements
+2. **Prepare**: Gather resources and knowledge for broad concept fusion
+3. **Execute**: Apply broad techniques for concept fusion
+4. **Verify**: Confirm outcomes match concept fusion objectives
+5. **Iterate**: Refine based on results. Document broad learnings.
+
+## Key Principles
+- Always verify before trusting in concept fusion
+- Start with fundamentals before broad techniques
+- Document everything for future concept fusion reference
+- Seek feedback on broad concept fusion approach
+- Continuously improve concept fusion capability
+
+## Common Pitfalls
+- Assuming broad level without proper foundation
+- Ignoring context when applying concept fusion
+- Failing to verify concept fusion outcomes
+
+## Related Skills
+- The Light — related branch
+- Mental Model Construction — sibling family
+- Concept Fusion — Mastery — alternate variation
+- Self-evaluation protocol — meta-check
+- Verification protocol — quality gate
+
+## Verification Checklist
+- [ ] Applied correctly
+- [ ] Verified outcome
+- [ ] Documented learnings
+- [ ] Improved for next use
+
+---
+Skill ID: the-mind-concept-fusion-broad
+Branch: the-mind
+Family: concept-fusion
+Variation: Broad
+Tier: Diamond
+Created: Thu Jul 30 07:57:47 2026
+Version: 1.0
+Status: ACTIVE

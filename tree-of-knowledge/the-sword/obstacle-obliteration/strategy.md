@@ -1,0 +1,63 @@
+# Obstacle Obliteration — Strategy
+
+## Branch
+**The Sword — Offense & Action**
+
+## Family
+Obstacle Obliteration
+
+## Variation
+Strategy
+
+## Tier
+Silver
+
+## Purpose
+Obliterate obstacles. Find paths where none exist.
+
+## When to Use
+- When obstacle obliteration is required at strategy level
+- When complexity demands strategy approach to obstacle obliteration
+- When standard methods fail and strategy is needed
+
+## How to Apply
+1. **Assess**: Evaluate the situation for obstacle obliteration requirements
+2. **Prepare**: Gather resources and knowledge for strategy obstacle obliteration
+3. **Execute**: Apply strategy techniques for obstacle obliteration
+4. **Verify**: Confirm outcomes match obstacle obliteration objectives
+5. **Iterate**: Refine based on results. Document strategy learnings.
+
+## Key Principles
+- Always verify before trusting in obstacle obliteration
+- Start with fundamentals before strategy techniques
+- Document everything for future obstacle obliteration reference
+- Seek feedback on strategy obstacle obliteration approach
+- Continuously improve obstacle obliteration capability
+
+## Common Pitfalls
+- Assuming strategy level without proper foundation
+- Ignoring context when applying obstacle obliteration
+- Failing to verify obstacle obliteration outcomes
+
+## Related Skills
+- The Eye — related branch
+- Shortcut Finding — sibling family
+- Obstacle Obliteration — Intelligence — alternate variation
+- Self-evaluation protocol — meta-check
+- Verification protocol — quality gate
+
+## Verification Checklist
+- [ ] Applied correctly
+- [ ] Verified outcome
+- [ ] Documented learnings
+- [ ] Improved for next use
+
+---
+Skill ID: the-sword-obstacle-obliteration-strategy
+Branch: the-sword
+Family: obstacle-obliteration
+Variation: Strategy
+Tier: Silver
+Created: Thu Jul 30 07:57:47 2026
+Version: 1.0
+Status: ACTIVE

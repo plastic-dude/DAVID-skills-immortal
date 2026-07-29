@@ -1,0 +1,63 @@
+# Enlightenment Seeking — Tactics
+
+## Branch
+**The Light — The Divine**
+
+## Family
+Enlightenment Seeking
+
+## Variation
+Tactics
+
+## Tier
+Diamond
+
+## Purpose
+Seek enlightenment. Pursue ultimate understanding.
+
+## When to Use
+- When enlightenment seeking is required at tactics level
+- When complexity demands tactics approach to enlightenment seeking
+- When standard methods fail and tactics is needed
+
+## How to Apply
+1. **Assess**: Evaluate the situation for enlightenment seeking requirements
+2. **Prepare**: Gather resources and knowledge for tactics enlightenment seeking
+3. **Execute**: Apply tactics techniques for enlightenment seeking
+4. **Verify**: Confirm outcomes match enlightenment seeking objectives
+5. **Iterate**: Refine based on results. Document tactics learnings.
+
+## Key Principles
+- Always verify before trusting in enlightenment seeking
+- Start with fundamentals before tactics techniques
+- Document everything for future enlightenment seeking reference
+- Seek feedback on tactics enlightenment seeking approach
+- Continuously improve enlightenment seeking capability
+
+## Common Pitfalls
+- Assuming tactics level without proper foundation
+- Ignoring context when applying enlightenment seeking
+- Failing to verify enlightenment seeking outcomes
+
+## Related Skills
+- The Sword — related branch
+- Love Generation — sibling family
+- Enlightenment Seeking — Counter — alternate variation
+- Self-evaluation protocol — meta-check
+- Verification protocol — quality gate
+
+## Verification Checklist
+- [ ] Applied correctly
+- [ ] Verified outcome
+- [ ] Documented learnings
+- [ ] Improved for next use
+
+---
+Skill ID: the-light-enlightenment-seeking-tactics
+Branch: the-light
+Family: enlightenment-seeking
+Variation: Tactics
+Tier: Diamond
+Created: Thu Jul 30 07:57:47 2026
+Version: 1.0
+Status: ACTIVE
