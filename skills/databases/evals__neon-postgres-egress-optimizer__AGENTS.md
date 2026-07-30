@@ -1,2 +1,0 @@
-- Never use title case
-- Never modify versioned eval files, make a new version instead
